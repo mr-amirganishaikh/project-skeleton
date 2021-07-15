@@ -1,0 +1,23 @@
+@mixin robot-100($font-size) {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    font-size: $font-size;
+}
+
+@mixin robot-300($font-size) {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: $font-size;
+}
+
+@mixin robot-400($font-size) {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: $font-size;
+}
+
+@mixin robot-500($font-size) {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: $font-size;
+}
