@@ -1,7 +1,7 @@
 <h1>Dependencies</h1>
 - <a href="https://fonts.google.com/specimen/Roboto?query=roboto">Roboto Google Fonts</a>
 - <a href="https://iconify.design/icon-sets/mdi/">Iconify mdi icons</a>
-- <a href="https://getbootstrap.com/docs/4.5/getting-started/introduction/">Bootstrap (4.5.2)</a>
+- <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/">Bootstrap</a>
 
 <h5>Editor: V S Code</h5>
 <h6>Extensions: </h6>
